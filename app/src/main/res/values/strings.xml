@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">UniCon</string>
+
+    <string name="meter">Meter (m)</string>
+    <string name="mile">Mile (mi)</string>
+    <string name="centimeter">Centimeter (cm)</string>
+    <string name="kilometer">Kilometer (km)</string>
+    <string name="foot">Foot (ft)</string>
+
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>Square meter (m²)</item>
+        <item>Square centimeter (cm²)</item>
+        <item>Hectare (ha)</item>
+        <item>Acre (a)</item>
+    </string-array>
+
+    <string-array name="weight_mass">
+        <item>Kilogram (kg)</item>
+        <item>Milligram (mg)</item>
+        <item>Pound (lb)</item>
+        <item>Gram (g)</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>Liter (L)</item>
+        <item>Gallon (gal)</item>
+        <item>Cubic meter (m³)</item>
+        <item>Cubic decimeter (dm³)</item>
+        <item>Cubic centimeter (mm³)</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>Mile (mi)</item>
+        <item>Meter (m)</item>
+        <item>Centimeter (cm)</item>
+        <item>Kilometer (km)</item>
+        <item>Foot (ft)</item>
+    </string-array>
+
+    <string-array name="speed">
+        <item>Miles per hour (mph)</item>
+        <item>Kilometers per hour (km/h)</item>
+        <item>Meters per second (m/s)</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Day (d)</item>
+        <item>Hour (h)</item>
+        <item>Minute (min)</item>
+        <item>Second (s)</item>
+    </string-array>
+
+    <string-array name="storage">
+        <item>Bit (b)</item>
+        <item>Byte (B)</item>
+        <item>Kilobyte (kB)</item>
+        <item>Megabyte (MB)</item>
+        <item>Gigabyte (GB)</item>
+        <item>Terabyte (TB)</item>
+    </string-array>
+
+    <string-array name="pressure">
+        <item>Atmosphere (atm)</item>
+        <item>Pascal (Pa)</item>
+        <item>Millimeter of Mercury (mmHg)</item>
+    </string-array>
+
+    <string-array name="nullz">
+        <item>NULL (NNN)</item>
+        <item>NULL (NNN)</item>
+        <item>NULL (NNN)</item>
+    </string-array>
+</resources>
